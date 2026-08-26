@@ -104,7 +104,7 @@
 
 # 🌎 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email: your-ssa.260506@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/your-profile
 
