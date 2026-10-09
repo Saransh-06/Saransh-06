@@ -1,12 +1,14 @@
- <div align="center">
+<div align="center">
 
-# Hey, I'm Saransh Singh 👋
+# 👋 Hey, I'm Saransh Singh
 
-### Computer Science Student | Java & C++ | DSA | AI/ML | Web Development
+### AI/ML Enthusiast 🤖
 
-*Learning by building, solving problems, and understanding how things work.*
+Exploring **Artificial Intelligence and Machine Learning**, strengthening my programming skills with **Java and C++**, and progressing towards **Full-Stack Web Development**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Java+%26+C%2B%2B+Programmer;DSA+Problem+Solver;Exploring+Artificial+Intelligence;Learning+Web+Development;Always+Learning%2C+Always+Building" alt="Typing introduction" />
+I enjoy solving problems, understanding how technology works, and turning ideas into practical projects.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+AI+%26+Machine+Learning;Java+%26+C%2B%2B+Programming;DSA+%26+Problem+Solving;Learning+Full-Stack+Development;Always+Learning+Something+New" alt="Typing introduction" />
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=161B22&style=flat-square" alt="Profile views" />
 
@@ -14,107 +16,103 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Computer Science student interested in software development and problem-solving.
-- ☕ Practicing **Data Structures and Algorithms using Java and C++**.
+- 🎓 Computer Science student interested in programming and software development.
 - 🤖 Exploring **Artificial Intelligence and Machine Learning**.
-- 🌐 Learning **Web Development** and building a foundation in frontend technologies.
-- 🧠 Interested in understanding the logic behind algorithms and how technology works.
-- 🛠️ Working towards building practical projects and improving my programming skills.
-- 🌱 Always learning something new, one concept at a time.
+- 💻 Practicing **Java and C++**.
+- 🧠 Solving coding problems and learning **Data Structures & Algorithms**.
+- 🌐 Exploring **Full-Stack Web Development**, from frontend interfaces to backend systems.
+- 🗄️ Learning SQL and database fundamentals.
+- 🛠️ Improving my skills by building projects and experimenting with new technologies.
+
+---
+
+## ⚡ Tech Stack
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+</p>
+
+**Python • Artificial Intelligence • Machine Learning Fundamentals**
+
+Currently interested in:
+
+`Machine Learning` • `Generative AI` • `LLMs` • `AI APIs`
+
+### 💻 Programming & DSA
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp" alt="Java and C++" />
+</p>
+
+**Java • C++ • Object-Oriented Programming • Data Structures & Algorithms • Problem Solving**
+
+### 🌐 Full-Stack Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
+</p>
+
+**Frontend:** HTML • CSS • JavaScript
+
+**Backend:** Exploring server-side development and backend fundamentals
+
+**APIs:** Learning how web applications communicate using APIs
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL and PostgreSQL" />
+</p>
+
+**SQL • MySQL • PostgreSQL • Database Fundamentals**
+
+### 🛠️ Tools & Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Git, GitHub, VS Code, IntelliJ IDEA and Postman" />
+</p>
+
+**Git • GitHub • VS Code • IntelliJ IDEA • Postman**
 
 ---
 
 ## 🎯 Current Focus
 
-| Area | Focus |
-|---|---|
-| ☕ Java | Core concepts, object-oriented programming and problem-solving |
-| 💻 C++ | Programming fundamentals and algorithm implementation |
-| 🧩 DSA | Data structures, algorithms and coding challenges |
-| 🤖 AI/ML | Learning the fundamentals of artificial intelligence and machine learning |
-| 🐍 Python | Building programming foundations for AI/ML |
-| 🌐 Web Development | Learning frontend development and building web pages |
-| 🗄️ SQL | Learning to work with structured data |
-| 🛠️ Git & GitHub | Version control and project collaboration |
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square&logo=probot&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=dependabot&logoColor=white" alt="Machine Learning" />
-</p>
-
-### ⚙️ Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-</p>
+- Building a strong foundation in AI/ML and Python.
+- Strengthening Java and C++ programming fundamentals.
+- Improving problem-solving skills through DSA practice.
+- Learning frontend development and progressing towards full-stack development.
+- Understanding databases, APIs, and backend development.
+- Creating practical projects and sharing them on GitHub.
 
 ---
 
 ## 🚀 2026 Goals
 
-- [ ] Strengthen Java and C++ fundamentals.
-- [ ] Solve more DSA problems and improve problem-solving skills.
+- [ ] Improve Java, C++, and DSA skills.
 - [ ] Learn Python for AI/ML.
 - [ ] Understand machine learning fundamentals.
-- [ ] Build practical web development projects.
-- [ ] Improve SQL and database skills.
-- [ ] Document projects and learning progress on GitHub.
-- [ ] Explore open-source contributions and collaboration.
+- [ ] Build responsive web pages using HTML, CSS, and JavaScript.
+- [ ] Learn backend development and database integration.
+- [ ] Develop practical AI/ML and full-stack projects.
+- [ ] Explore open-source contributions.
 
----
 
-## 📌 Featured Projects
-
-*My projects will be added here as I build and publish them.*
-
-<!-- Replace the placeholders below with links to your actual repositories.
-
-- **Project Name:** Brief description of what it does.
-  [View Repository](YOUR_PROJECT_REPOSITORY_URL)
-
--->
-
----
-
-## 🌎 Connect With Me
+## 🌎 Let's Connect
 
 <p>
-  <a href="https://github.com/Saransh-06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/saransh-singh-a229b7381/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ssa.260506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -122,7 +120,7 @@
 
 <div align="center">
 
-*"Consistency beats intensity when it comes to learning."*
+*"Keep learning. Keep building. Keep getting better."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" alt="Footer banner" />
 
